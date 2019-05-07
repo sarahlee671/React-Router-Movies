@@ -6,6 +6,7 @@ export default class SavedList extends Component {
   }
 
   render() {
+
     return (
       <div className="saved-list">
         <h3>Saved Movies:</h3>
@@ -17,3 +18,4 @@ export default class SavedList extends Component {
     );
   }
 }
+
